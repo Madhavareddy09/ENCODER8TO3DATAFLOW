@@ -71,7 +71,8 @@ endmodule
 
 
 
-**RESULTS**
+**RESULT**
+
 Thus the Encoder 8 to 3 dataflow circuits are designed and the truth tables is verified using Quartus software.
 
 
